@@ -1,11 +1,11 @@
 {
-    "title" : "Portfolio de Élie Copter",
-    "lastname": "Copter",
-    "firstname": "Élie",
-    "portrait" : "avatar.jpg",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
-    "cv" : "CV.pdf",
+    "title" : "Portfolio de Moritz Blunk--Lallet",
+    "lastname": "Blunk--Lallet",
+    "firstname": "Moritz",
+    "portrait" : "avatar.jpeg",
+    "intro": "Sur ce site portfolio vous trouverez des informations sur mes projets, mes centres d'intérets et sur mon parcours scolaire.",
+    "biography": "Bienvenue sur mon portfolio ! Je m’appelle Moritz Blunk-Lallet, j’ai 19 ans et je suis actuellement étudiant en BUT Métiers du Multimédia et de l’Internet (MMI) à l’IUT de Lannion. Passionné par la création sonore et l’univers de la production musicale, je souhaite mettre mes compétences au service d’un studio de musique en Bretagne. À la recherche d’un stage du 7 avril au 20 juin, je suis motivé à explorer l’univers du sound design, du mixage et de la production, tout en apportant ma créativité et mon savoir-faire. Curieux d’en savoir plus sur mon travail ? Découvrez mes projets et n’hésitez pas à me contacter ! 🎶",
+    "cv" : "CV_BlunkLallet_Moritz.pdf",
     "trainings": [
         {
             "name" : "BUT Métiers du Multimédia et de l'Internet",
@@ -14,40 +14,40 @@
             "end" : 2026
         },
         {
-            "name" : "Bac S, option Maths et Arts Plastiques",
-            "school" : "Lycée Félix Le Dantec( 22)",
+            "name" : "Bac STI2D, option SIN avec mention bien",
+            "school" : "Lycée Félix Le Dantec(22)",
             "start" : 2023
         }
     ],
     "interests": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "Je suis intéressé par la musique et j'en compose également",
+        "Je suis intéressé par l'histoire du monde",
+        "Je joue quotidiennement aux échecs"
     ],
     "projects": [
         {
-            "title": "Project 1 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "title": "Production musicale pour une publicité à l'échelle mondiale (Adidas / Footlocker)",
+            "context": "Publicité diffusée sur les médias sociaux de Footlocker et sur les chaines de télévision américaines. Cette publicité met en lumière la superstar de la NBA Anthony Edwards et sa paire de chaussures : la AE1. Il s'agit pour moi d'un projet extrémement intéressant, concretisant des années de production musicale.",
+            "missions" : ["Production musicale", "Recomposition selon les demandes du client."],
+            "outputs" :  ["Composition", "Mixage de la composition"],
             "skills": [
-                "3D",
-                "Dev Web"
+                "Entrepreneuriat",
+                "Réseaux sociaux"
             ],
-            "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "link" : "https://www.youtube.com/watch?v=p4WFVlPxNoo&list=PLK5iY6QRleDfz_E3eUppeQy4l3ePiO2rs&index=35",
+            "picture": "footlocker.png"
         },
         {
-            "title": "Project 2 : Lorem ipsum dolor sit amet consecitur",
-            "context": "Lorem ipsum dolor sit amet consecitur",
-            "missions" : ["Lorem ipsum dolor", "Lorem ipsum dolor"],
-            "outputs" :  ["Lorem ipsum dolor", "Lorem ipsum dolor"],
+            "title": "Audit et productions audiovisuelles pour l'Association Les Amis de Ruth",
+            "context": "L'association Les Amis de Ruth, a pour objectif de préserver le Voilier Ruth. Il s'agit d'un vieux gréément datant de 1914. Dans cette optique, j'ai, durant ma deuxième année de BUT MMI produit des audits et des courts métrages visant à permettre à l'association de toucher d'avantage de sponsors et de mécènes.",
+            "missions" : ["Permettre à l'association de toucher des sponsors et des mécènes", "Faire connaitre davantage le voilier et inciter les citoyens à s'intéresser au patrimoine maritime."],
+            "outputs" :  ["Réalisation de 2 courts métrages (1 interview de présentation pour l'association ; 1 visite 360 du bateau déstinée aux PMR)", "Audit et reccomendation des réseaux sociaux", "Réalisation d'un site internet pour l'association"],
             "skills": [
                 "Marketing",
                 "Comm"
             ],
-            "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "link" : "https://www.helloasso.com/associations/les-amis-de-ruth",
+            "picture": "ruth.png"
         },
         {
             "title": "Project 3 : Lorem ipsum dolor sit amet consecitur",
@@ -79,42 +79,46 @@
     
     "skills": [
         {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
+            "title": "Production musicale et maitrise du logiciel Logic Pro X",
+            "description": "Maitrise des DAWs et plugins associés",
             "tools": [
-                "Lorem",
-                "Ipsum"
-            ],
-            "level": 3
-        },
-        {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
-            "tools": [
-                "Lorem",
-                "Ipsum"
+                "Logic Pro X",
+                "Kontakt",
+                "Eq, Reverb, Compressor...",
+                "Analog Labs..."
+                
             ],
             "level": 4
         },
         {
-            "title": "Lorem ipsum dolor sit amet consecitur",
-            "description": "Lorem ipsum dolor sit amet consecitur",
+            "title": "Développement Web",
+            "description": "Réaliser des sites internet en suivant une maquette précise",
             "tools": [
-                "Lorem",
-                "Ipsum"
+                "JetBrain",
+                "Mamp",
+                "Figma..."
             ],
-            "level": 5
+            "level": 2.5
+        },
+        {
+         "title": "Marketing",
+            "description": "Réaliser un audit précis d'une entreprise et en déterminer les atouts et les faiblesses.",
+            "tools": [
+                "Outils de Marketing (SWOT, PESTEL...)",
+                "Outils d'analyse accessibilité"
+            ],
+            "level": 4
         }
     ],
     "contacts": [
         {"name" : "Instagram", 
-        "url" : "https://instagram.com",
+        "url" : "https://www.instagram.com/moic_beatz/?hl=fr",
         "icon" : "insta.svg"},
         {"name" : "LinkedIn", 
-        "url" : "https://linkedin.com",
+        "url" : "https://www.linkedin.com/in/moritz-blunk-lallet-740912271/",
         "icon" : "linkedin.svg"},
         {"name" : "Mail", 
-        "url" : "mailto:elie.copter.titi@etudiant.univ-rennes.fr",
+        "url" : "mailto:moritz.blunklallet@etudiant.univ-rennes.fr",
         "icon" : "mail.svg"}
     ]
 }
